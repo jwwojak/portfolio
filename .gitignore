@@ -1,0 +1,14 @@
+# Local build directory
+site/
+
+# Python caching
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments (if you ever use them)
+venv/
+.venv/
