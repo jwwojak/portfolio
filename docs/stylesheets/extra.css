@@ -1,0 +1,4 @@
+.contact-grid {
+  grid-template-columns: repeat(3, 1fr) !important;
+  max-width: 600px;
+}

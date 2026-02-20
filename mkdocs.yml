@@ -2,13 +2,9 @@ site_name: Joe Wojak | Senior Technical Writer
 
 theme:
   name: material
-  palette:
-    # Adding a palette gives the site a professional, "engineering-first" feel
-    scheme: slate 
-    primary: indigo
-  features:
-    - navigation.sections
-    - content.code.copy # Essential for API documentation
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
@@ -23,7 +19,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  # --- New Mission-Critical Extensions ---
+  # --- New extensions ---
   - pymdownx.details      # For collapsible "Service Manual" style notes
   - pymdownx.superfences  # For nesting code/lists (vital for complex procedures)
   - pymdownx.tasklist:    # For field-service engineer checklists
