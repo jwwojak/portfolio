@@ -2,6 +2,8 @@ site_name: Joe Wojak | Senior Technical Writer
 
 theme:
   name: material
+  features:
+    - navigation.indexes
 
 plugins:
   - search
@@ -22,6 +24,10 @@ extra_css:
 nav:
   - Home: index.md
   - Resume: resume.md
+  - Writing Samples:
+    - Writing Samples: writing-samples/index.md
+    - Understanding Budget Distribution and Update Cycles: writing-samples/budget-distribution.md
+    - API Documentation: writing-samples/api-docs.md
 
 copyright: Copyright &copy; 2026 Joe Wojak
 
