@@ -3,12 +3,27 @@ site_name: Joe Wojak | Senior Technical Writer
 theme:
   name: material
 
+plugins:
+  - search
+
+# --- Social links ---
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jwwojak
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/joewojak
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:jwojak@gmail.com
+
 extra_css:
   - stylesheets/extra.css
 
 nav:
   - Home: index.md
   - Resume: resume.md
+
+copyright: Copyright &copy; 2026 Joe Wojak
 
 markdown_extensions:
   - toc:
@@ -19,13 +34,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  # --- New extensions ---
-  - pymdownx.details      # For collapsible "Service Manual" style notes
-  - pymdownx.superfences  # For nesting code/lists (vital for complex procedures)
-  - pymdownx.tasklist:    # For field-service engineer checklists
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.highlight:   # For professional code rendering
+  - pymdownx.highlight:
       anchor_linenums: true
-  - pymdownx.keys         # For rendering keyboard shortcuts (e.g., Ctrl+C)
-  - pymdownx.arithmatex:  # For electromechanical formulas
+  - pymdownx.keys
+  - pymdownx.arithmatex:
       generic: true

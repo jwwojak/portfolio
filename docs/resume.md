@@ -3,6 +3,7 @@ title: "Joe Wojak: Resume"
 ---
 
 # Joe Wojak
+Senior Technical Writer
 
 <div class="grid cards contact-grid" markdown>
 
@@ -10,19 +11,19 @@ title: "Joe Wojak: Resume"
 
     ---
 
-    test [jwojak@gmail.com](mailto:jwojak@gmail.com)
+    Get in touch: [jwojak@gmail.com](mailto:jwojak@gmail.com).
 
 -   :simple-github: __GitHub__
 
     ---
 
-     test [jwwojak](https://github.com/jwwojak)
+    Review my technical work on [Github](https://github.com/jwwojak){:target="_blank"}.
 
 -   :fontawesome-brands-linkedin: __LinkedIn__
 
     ---
 
-    test [joewojak](https://linkedin.com/in/joewojak)
+    Follow me on [LinkedIn](https://linkedin.com/in/joewojak){:target="_blank"}.
 
 </div>
 
