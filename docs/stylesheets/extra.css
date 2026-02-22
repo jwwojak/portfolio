@@ -25,3 +25,8 @@
   left: 0;
   z-index: 1;
 }
+
+.md-typeset table th {
+  background-color: #90afb8dc; /* Header color */
+  color: #000000; /* Header text color */
+}
