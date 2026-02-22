@@ -38,7 +38,6 @@ Here is how budget data moves through the ad serving stack after an update.
           <li>Tracks how much they spend.</li>
           <li>Stops the bidders when they've exhausted their budget.</li>
         </ul>
-        For more information about how Watson manages budgets, see LINK TO OTHER ARTICLE HERE.
       </td>
     </tr>
     <tr>
@@ -52,7 +51,8 @@ In the illustration, the green circle shows how budget information is distribute
 
 ![Ad server budget after updates and distribution](../images/budget-distribution-2.png)
 
-Note that these separate update intervals can prevent a tactic from serving from 10 minutes up to an hour. For more information about this delay and how to force an update, see PLACEHOLDER LINK TO OTHER ARTICLE HERE.
+!!!note
+    Update intervals can delay ad delivery from 10 minutes up to an hour. For more information about this delay and how to force an update, see [Budget Updates and Delivery Delays](budget-delay.md).
 
 ## Related topics
 
