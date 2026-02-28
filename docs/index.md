@@ -3,19 +3,17 @@ hide:
     -toc
 ---
 
-# Welcome
+# Joe Wojak, Technical Writer
 
-## Joe Wojak
+## Hello world
 
-### Senior Technical Writer
-
----
 Welcome to my portfolio. I specialize in transforming complex engineering systems—including robotics, APIs, and electromechanical products—into mission-critical documentation.
----
+
+## Background and witing smples
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-file-lines:{ .lg .middle } __Professional Resume__
+-   :fontawesome-solid-file-lines:{ .lg .middle } __Resume__
 
     ---
 
@@ -23,7 +21,7 @@ Welcome to my portfolio. I specialize in transforming complex engineering system
 
     [:octicons-arrow-right-24: View Resume](resume.md)
 
--   :fontawesome-solid-code-branch:{ .lg .middle } __Writing Samples__
+-   :octicons-terminal-16:{ .lg .middle } __Writing Samples__
 
     ---
 
@@ -33,10 +31,26 @@ Welcome to my portfolio. I specialize in transforming complex engineering system
 
 </div>
 
----
+## Contact
 
-### Recent Work & Expertise
+<div class="grid cards contact-grid" markdown>
 
-* **Docs-as-Code Mastery:** Transitioned teams to modern **MkDocs** and **GitHub** workflows to improve version control and content velocity.
-* **Hardware & Robotics:** Author of end-to-end assembly, safety, and maintenance manuals for high-throughput laboratory robotics.
-* **API & Protocol Documentation:** Expert in documenting Python APIs and low-level G-code instructions for third-party system integrators.
+-   :simple-gmail: __Email__
+
+    ---
+
+    Get in touch: [jwojak@gmail.com](mailto:jwojak@gmail.com).
+
+-   :simple-github: __GitHub__
+
+    ---
+
+    Review my technical work on [Github](https://github.com/jwwojak){:target="_blank"}.
+
+-   :fontawesome-brands-linkedin: __LinkedIn__
+
+    ---
+
+    Follow me on [LinkedIn](https://linkedin.com/in/joewojak){:target="_blank"}.
+
+</div>

@@ -1,31 +1,15 @@
----
-title: "Joe Wojak: Resume"
----
 
-# Joe Wojak
-Senior Technical Writer
+<div style="display: grid; grid-template-columns: 1fr auto; align-items: end;" markdown>
 
-<div class="grid cards contact-grid" markdown>
-
--   :simple-gmail: __Email__
-
-    ---
-
-    Get in touch: [jwojak@gmail.com](mailto:jwojak@gmail.com).
-
--   :simple-github: __GitHub__
-
-    ---
-
-    Review my technical work on [Github](https://github.com/jwwojak){:target="_blank"}.
-
--   :fontawesome-brands-linkedin: __LinkedIn__
-
-    ---
-
-    Follow me on [LinkedIn](https://linkedin.com/in/joewojak){:target="_blank"}.
+<div style="text-align: left:;" markdown>
+:simple-gmail: [jwojak@gmail.com](mailto:jwojak@gmail.com)  
+:fontawesome-brands-linkedin: [joewojak](https://www.linkedin.com/in/joewojak)  
+:fontawesome-brands-github: [jwwojak](https://github.com/jwwojak)
+</div>
 
 </div>
+
+---
 
 ## About
 
