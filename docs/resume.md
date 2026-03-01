@@ -1,11 +1,28 @@
+---
+title: "Joe Wojak: Resume"
+---
 
-<div style="display: grid; grid-template-columns: 1fr auto; align-items: end;" markdown>
+# Joe Wojak, Technical Writer
 
-<div style="text-align: left:;" markdown>
-:simple-gmail: [jwojak@gmail.com](mailto:jwojak@gmail.com)  
-:fontawesome-brands-linkedin: [joewojak](https://www.linkedin.com/in/joewojak)  
-:fontawesome-brands-github: [jwwojak](https://github.com/jwwojak)
-</div>
+<style>
+  @media (max-width: 600px) {
+    .contact-text {
+      display: none;
+    }
+  }
+</style>
+
+---
+
+## Contact
+
+<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;" markdown>
+
+[:simple-gmail: <span class="contact-text">jwojak@gmail.com</span>](mailto:jwojak@gmail.com) 
+&bull; 
+[:fontawesome-brands-linkedin: <span class="contact-text">joewojak</span>](https://www.linkedin.com/in/joewojak) 
+&bull; 
+[:fontawesome-brands-github: <span class="contact-text">jwwojak</span>](https://github.com/jwwojak)
 
 </div>
 
@@ -13,7 +30,9 @@
 
 ## About
 
-Senior Technical Writer specializing in transforming complex engineering systems—including robotics, APIs, and electromechanical products—into mission-critical documentation. Expert in building end-to-end writing strategies that deliver comprehensive manuals, leveraging modern Docs-as-Code workflows and open-source tools to reduce costs and streamline documentation processes.
+I am a Senior Technical Writer specializing in transforming complex engineering systems—including robotics, APIs, and electromechanical products—into mission-critical documentation. My previous experience includes documentation for ad exchanges and data management platforms. I can help you build end-to-end writing strategies that deliver comprehensive manuals, leveraging modern Docs-as-Code workflows and open-source tools to reduce costs and streamline documentation processes.
+
+---
 
 ## Work Experience
 
