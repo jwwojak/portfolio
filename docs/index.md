@@ -7,7 +7,7 @@ hide:
 
 ## Hello world
 
-Welcome to my portfolio. I specialize in transforming complex engineering systems—including robotics, APIs, and electromechanical products—into mission-critical documentation.
+Welcome to my portfolio. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
 
 ## Background and witing smples
 
@@ -17,7 +17,7 @@ Welcome to my portfolio. I specialize in transforming complex engineering system
 
     ---
 
-    A comprehensive look at my experience at **Opentrons**, **Spotify**, and **Adobe**, focusing on Docs-as-Code and hardware documentation.
+    Start here to review a summary of my work experience.
 
     [:octicons-arrow-right-24: View Resume](resume.md)
 
@@ -25,7 +25,7 @@ Welcome to my portfolio. I specialize in transforming complex engineering system
 
     ---
 
-    Selected works including hardware manuals for the **Flex Stacker**, **G-code** references, and technical guides for ad-tech systems.
+    Examples of my written technical work for ad tech systems and robotics.
 
     [:octicons-arrow-right-24: View Samples](writing-samples/index.md)
 
@@ -33,24 +33,4 @@ Welcome to my portfolio. I specialize in transforming complex engineering system
 
 ## Contact
 
-<div class="grid cards contact-grid" markdown>
 
--   :simple-gmail: __Email__
-
-    ---
-
-    Get in touch: [jwojak@gmail.com](mailto:jwojak@gmail.com).
-
--   :simple-github: __GitHub__
-
-    ---
-
-    Review my technical work on [Github](https://github.com/jwwojak){:target="_blank"}.
-
--   :fontawesome-brands-linkedin: __LinkedIn__
-
-    ---
-
-    Follow me on [LinkedIn](https://linkedin.com/in/joewojak){:target="_blank"}.
-
-</div>
