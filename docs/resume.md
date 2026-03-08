@@ -4,6 +4,8 @@ title: "Joe Wojak: Resume"
 
 # Joe Wojak, Technical Writer
 
+[:fontawesome-regular-file-pdf: Download Resume](resume.pdf){ .md-button .md-button--primary style="padding: 4px 12px; font-size: 0.8rem;" }
+
 <style>
   @media (max-width: 600px) {
     .contact-text {
@@ -18,11 +20,11 @@ title: "Joe Wojak: Resume"
 
 <div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;" markdown>
 
-[:simple-gmail: <span class="contact-text">jwojak@gmail.com</span>](mailto:jwojak@gmail.com) 
+:material-email: [<span class="contact-text">jwojak@gmail.com</span>](mailto:jwojak@gmail.com) 
 &bull; 
-[:fontawesome-brands-linkedin: <span class="contact-text">joewojak</span>](https://www.linkedin.com/in/joewojak) 
+:fontawesome-brands-linkedin: [<span class="contact-text">LinkedIn</span>](https://www.linkedin.com/in/joewojak) 
 &bull; 
-[:fontawesome-brands-github: <span class="contact-text">jwwojak</span>](https://github.com/jwwojak)
+:fontawesome-brands-github: [<span class="contact-text">Github</span>](https://github.com/jwwojak)
 
 </div>
 
@@ -30,7 +32,7 @@ title: "Joe Wojak: Resume"
 
 ## About
 
-I am a Senior Technical Writer specializing in transforming complex engineering systems—including robotics, APIs, and electromechanical products—into mission-critical documentation. My previous experience includes documentation for ad exchanges and data management platforms. I can help you build end-to-end writing strategies that deliver comprehensive manuals, leveraging modern Docs-as-Code workflows and open-source tools to reduce costs and streamline documentation processes.
+I am a technical writer specializing in transforming complex engineering systems—including robotics, APIs, and electromechanical products—into mission-critical documentation. My previous experience includes documentation for ad exchanges and data management platforms. I can help you build end-to-end writing strategies that deliver comprehensive manuals, leveraging modern Docs-as-Code workflows and open-source tools to reduce costs and streamline documentation processes.
 
 ---
 

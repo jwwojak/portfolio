@@ -24,21 +24,25 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Home: index.md
+  - "Joe Wojak: Technical Writer": index.md
   - Resume: resume.md
   - Writing Samples:
     - Writing Samples: writing-samples/index.md
-    - Robotics: writing-samples/robotics.md
+    - Robotics Documentation: writing-samples/robotics.md
+    - API Documentation: writing-samples/api-docs.md
+    - G-code Documentation:
+          - Understanding Thermocycler G-codes and Device IDs: writing-samples/gcodes-intro.md
+          - Thermocycler G-codes: writing-samples/gcodes-list.md
     - Ad Tech Documentation:
           - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md
           - Understanding Budget Distribution in Data Centers: writing-samples/budget-distribution.md
           - Budget Updates and Delivery Delays: writing-samples/budget-delay.md
-          - Confidence Scores and Report Results: writing-samples/confidence-scores.md
-    - API Documentation: writing-samples/api-docs.md
+          # - Confidence Scores and Report Results: writing-samples/confidence-scores.md
 
 copyright: Copyright &copy; 2026 Joe Wojak
 
 markdown_extensions:
+  - def_list
   - toc:
       permalink: True
   - admonition

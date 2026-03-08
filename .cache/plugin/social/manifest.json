@@ -1,11 +1,14 @@
 {
-  "assets/images/social/index.png": "24fd4f0d9f86cc9761b2455e22d98cedd078304d",
+  "assets/images/social/index.png": "5b074086837dac9500cee6cdcda70cb6af1f8263",
   "assets/images/social/resume.png": "8ee6046daf1141225d8147e4004def4702ef4194",
   "assets/images/social/writing-samples/api-docs.png": "3531f22c60c4ba9eafd672dbdbe566c6c4e94474",
   "assets/images/social/writing-samples/budget-delay.png": "78227dba7288229d0ed8f06e1ed7cda777bd6ad4",
   "assets/images/social/writing-samples/budget-distribution.png": "c8da0f2f670bc8eaa5a006631c2daa11fbfcb986",
   "assets/images/social/writing-samples/budget-updates.png": "d9e497e303e2871dae012bf129a0812accff2b69",
   "assets/images/social/writing-samples/confidence-scores.png": "fbbc48dee5aae2031499a8159c61e9acbf6fe74e",
+  "assets/images/social/writing-samples/gcodes-intro.png": "00785f85f48a627260336f75ded98c82d1d1712f",
+  "assets/images/social/writing-samples/gcodes-list.png": "7797cf0c2f2755e0a0105170fc14af6ec8586b82",
+  "assets/images/social/writing-samples/gcodes.png": "00785f85f48a627260336f75ded98c82d1d1712f",
   "assets/images/social/writing-samples/index.png": "7437225f55f8b1d8471298ff3f3c2dbbca980547",
   "assets/images/social/writing-samples/robotics.png": "64e90d20470e6ea74b56c502811cacbb6bd802f6"
 }

@@ -2,20 +2,17 @@
 title: "Writing Sample: API Documentation"
 ---
 
-!!! abstract "Writer's note"
-    This was written to support new methods for describing liquids, add labels to wells, and detect the presence or absence of liquid in labware.
-
 ## Labeling Liquids in Wells
 
-Optionally, you can specify the liquids that should be in various wells at the beginning of your protocol. Doing so helps you identify well contents by name and volume, and adds corresponding labels to a single well, or group of wells, in well plates and reservoirs. Viewing the initial liquid setup in a Python protocol is available in the Opentrons App v6.3.0 or higher.
+You can specify the liquids that should be in various wells at the beginning of your protocol. Doing so helps you identify well contents by name and volume, and adds corresponding labels to a single well, or group of wells, in well plates and reservoirs. Viewing the initial liquid setup in a Python protocol is available in the Opentrons App v6.3.0 or higher.
 
-To use these optional methods, first create a liquid object with `.ProtocolContext.define_liquid` and then label individual wells by calling `.Well.load_liquid`, both within the `run()` function of your Python protocol.
+To use these optional methods, first create a liquid object with `ProtocolContext.define_liquid` and then label individual wells by calling `Well.load_liquid`, both within the `run()` function of your Python protocol.
 
 Let's examine how these two methods work. The following examples demonstrate how to define colored water samples for a well plate and reservoir.
 
 ### Defining Liquids
 
-This example uses define_liquid to create two liquid objects and instantiates them with the variables `greenWater` and `blueWater`, respectively. The arguments for `define_liquid` are all required, and let you name the liquid, describe it, and assign it a color:
+This example uses `define_liquid` to create two liquid objects and instantiates them with the variables `greenWater` and `blueWater`, respectively. The arguments for `define_liquid` are all required, and let you name the liquid, describe it, and assign it a color:
 
 ```python
 greenWater = protocol.define_liquid(
@@ -77,5 +74,5 @@ Aspiration isn't required to use `require_liquid_presence()`. This is a standalo
 
 ```python
  pipette.require_liquid_presence(reservoir["A1"])
-    pipette.aspirate(100, reservoir["A1"])  # only occurs if liquid found
+    pipette.aspirate(100, reservoir["A1"])  # only occurs if a liquid is found
 ```

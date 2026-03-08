@@ -1,36 +1,41 @@
 ---
-hide:
-    -toc
+title: "Joe Wojak: Technical Writer"
 ---
-
-# Joe Wojak, Technical Writer
 
 ## Hello world
 
 Welcome to my portfolio. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
 
-## Background and witing smples
+## Background and writing samples
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-file-lines:{ .lg .middle } __Resume__
+-   :material-file-document-edit-outline:{ .lg .middle } __Resume__
 
     ---
 
-    Start here to review a summary of my work experience.
+    Review and download.
 
     [:octicons-arrow-right-24: View Resume](resume.md)
 
--   :octicons-terminal-16:{ .lg .middle } __Writing Samples__
+-   :octicons-terminal-16:{ .lg .middle } __Technical Documentation__
 
     ---
 
-    Examples of my written technical work for ad tech systems and robotics.
+    Ad tech, robotics, API, and G-code writing samples.
 
     [:octicons-arrow-right-24: View Samples](writing-samples/index.md)
 
 </div>
 
+## About this site
+
+I built this site using a docs-as-code workflow with MkDocs, the Material theme, and GitHub Pages. By treating documentation like software, I ensure that guides, API references, and manuals are easily version-controlled, highly scalable, and capable of integrating directly into the products and applications that customers already use.
+
 ## Contact
 
+I'm always open to discussing documentation or technical writing opportunities. Feel free to reach out!
 
+- :material-email: [jwojak@gmail.com](mailto:jwojak@gmail.com)
+- :material-linkedin: [LinkedIn](https://www.linkedin.com/in/joewojak)
+- :material-github: [GitHub](https://github.com/jwwojak)

@@ -12,7 +12,7 @@ Applying an even budget distribution across multiple data centers is inefficient
 
 To solve this problem, the ad serving system allocates budgets to each data center in direct proportion to its *match rate*. The match rate measures how often the bidders in a data center can fulfill a bid request, given the constraints set by each ad serving tactic. If a data center and its bidders match more bids, they receive a larger share of the available budget. This dynamic allocation method shifts resources between data centers and bidders in response to demand. 
 
-In the ad serving technology stack, the budget allocator calculates the match rate, while Watson manages and distributes budgets to the bidders. For more information about how these systems work, see [Understanding Budget Distribution and Update Cycles](budget-distribution.md).
+In the ad serving technology stack, the budget allocator calculates the match rate, while Watson manages and distributes budgets to the bidders. For more information about how these systems work, see [Understanding Budget Distribution and Update Cycles](budget-updates.md).
 
 ## Server hardware affects budget distribution between bidders
 

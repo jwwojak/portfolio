@@ -2,20 +2,26 @@
 title: "Writing Samples"
 ---
 
-Examples of older ad tech and current robotics documentation.
-
-## Ad tech documentation
-
-These related articles cover budget distribution and campaign performance in an ad serving system.
-
-- [Budget Distribution and Update Cycles](budget-updates.md), explains how budget data moves through the ad serving stack.
-
-- [Understanding Budget Distrubution in Data Centers](budget-distribution.md) explains how the effectiveness of an ad campaign determines budget distribution in different data centers.
-
-- [Budget Updates and Delivery Delays](budget-delay.md) explains how to force a budget update across different ad servers to start an ad campaign.
-
-This standalone piece, [Confidence Scores and Report Results](confidence-scores.md) explains how a device graph determines if a group of devices belong to an individual or household.
+These samples highlight my current work in robotics and past work in ad tech. The API and G-code examples are subsets of the robotics documentation.
 
 ## Robotics documentation
 
-[See this section](robotics.md) for featured examples. All other robotics work is online at <https://docs.opentrons.com/>.
+The [Robotics section](./robotics.md) includes examples of my written work for Opentrons as a contributing writer and primary author.
+
+## API documentation
+
+The [API section](./api-docs.md) documents several liquid handling methods for the Opentrons Python API.
+
+## G-code documentation
+
+The [G-code section](./gcodes-intro.md) includes two examples that explain and list the serial commands use by the Opentrons Heater-Shaker module.
+
+## Ad tech documentation
+
+This section contains earlier work featuring three related articles on budget distribution and campaign performance in an ad serving system:
+
+- [Budget Distribution and Update Cycles](budget-updates.md) outlines how budget data moves through the ad serving stack.
+
+- [Understanding Budget Distribution in Data Centers](budget-distribution.md) details how campaign effectiveness dictates budget distribution across data centers.
+
+- [Budget Updates and Delivery Delays](budget-delay.md) explains how to force a budget update across ad servers to launch a campaign.
