@@ -30,7 +30,7 @@ Welcome to my portfolio. I specialize in transforming complex engineering system
 
 ## About this site
 
-I built this site using a docs-as-code workflow with MkDocs, the Material theme, and GitHub Pages. By treating documentation like software, I ensure that guides, API references, and manuals are easily version-controlled, highly scalable, and capable of integrating directly into the products and applications that customers already use.
+Beyond hosting my resume and writing samples, this site is a functional example of my technical capabilities. I leveraged MkDocs, Material for MkDocs, and GitHub to create a responsive, search-optimized documentation environment that balances technical architecture with clear writing.
 
 ## Contact
 

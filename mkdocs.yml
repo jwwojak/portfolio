@@ -3,6 +3,9 @@ site_name: Joe Wojak | Senior Technical Writer
 
 theme:
   name: material
+  icon:
+    logo: material/file-document-multiple-outline
+  favicon: images/favicon/file-document-multiple-outline.svg
   features:
     - navigation.indexes
 
@@ -31,8 +34,8 @@ nav:
     - Robotics Documentation: writing-samples/robotics.md
     - API Documentation: writing-samples/api-docs.md
     - G-code Documentation:
-          - Understanding Thermocycler G-codes and Device IDs: writing-samples/gcodes-intro.md
-          - Thermocycler G-codes: writing-samples/gcodes-list.md
+          - Thermocycler G-Code Essentials: writing-samples/gcodes-intro.md
+          - Thermocycler Module G-codes: writing-samples/gcodes-list.md
     - Ad Tech Documentation:
           - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md
           - Understanding Budget Distribution in Data Centers: writing-samples/budget-distribution.md

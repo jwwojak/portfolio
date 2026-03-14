@@ -1,24 +1,24 @@
 ---
-title: "Writing Samples"
+title: "Writing Samples: Robotics and Ad Tech Documentation"
 ---
 
 These samples highlight my current work in robotics and past work in ad tech. The API and G-code examples are subsets of the robotics documentation.
 
 ## Robotics documentation
 
-The [Robotics section](./robotics.md) includes examples of my written work for Opentrons as a contributing writer and primary author.
+The [robotics writing samples](./robotics.md) feature my work for Opentrons as a contributing writer and primary author.
 
-## API documentation
+### API documentation
 
-The [API section](./api-docs.md) documents several liquid handling methods for the Opentrons Python API.
+The [API writing sample](./api-docs.md) documents several liquid handling methods for the Opentrons Python API.
 
-## G-code documentation
+### G-code documentation
 
-The [G-code section](./gcodes-intro.md) includes two examples that explain and list the serial commands use by the Opentrons Heater-Shaker module.
+The [G-code writing samples](./gcodes-intro.md) include two articles that explain and list the serial commands used by the Opentrons Thermocycler module.
 
 ## Ad tech documentation
 
-This section contains earlier work featuring three related articles on budget distribution and campaign performance in an ad serving system:
+This section contains three related writing samples that explain budget distribution and campaign performance in an ad serving system:
 
 - [Budget Distribution and Update Cycles](budget-updates.md) outlines how budget data moves through the ad serving stack.
 

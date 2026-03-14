@@ -36,7 +36,3 @@ In the diagram, the green circle shows how budget information is distributed aft
 
 !!!note
     Update intervals can delay ad delivery from 10 minutes up to an hour. For more information about this delay and how to force an update, see [Budget Updates and Delivery Delays](budget-delay.md).
-
-## Related topics
-
-[Budget Distribution Between and Within Data Centers](./budget-distribution.md)
