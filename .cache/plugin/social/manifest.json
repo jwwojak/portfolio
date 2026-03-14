@@ -1,14 +1,15 @@
 {
-  "assets/images/social/index.png": "f8e256a0f51e8e6e0ef4d7d8be53f9d280431530",
-  "assets/images/social/resume.png": "28f92bc62729b6a305a968d5432e20517f159dec",
-  "assets/images/social/writing-samples/api-docs.png": "426e6cce9876450814bcb4899f350d2a4d7385b4",
-  "assets/images/social/writing-samples/budget-delay.png": "07a9097aaec133added779be735ca9b7db4599b1",
-  "assets/images/social/writing-samples/budget-distribution.png": "bbf51ce652de0264312ddb2bb5940f7326100895",
-  "assets/images/social/writing-samples/budget-updates.png": "775face966896c770a021b14ed3bcfe31ef80587",
-  "assets/images/social/writing-samples/confidence-scores.png": "573f27169f67b706a11298e6dbd9aa31ef654853",
+  "assets/images/social/index.png": "db2dadb1a4c5f25a094233c769d3ce8a797362dc",
+  "assets/images/social/resume.png": "df72df4974596c2532a435d2bdf135014fae3dd9",
+  "assets/images/social/writing-samples/api-docs.png": "bcbd2c870612955d216f83894ec178c235066cd5",
+  "assets/images/social/writing-samples/budget-delay.png": "b01640d926ce6306b8503c56cc3788c3035ec5cf",
+  "assets/images/social/writing-samples/budget-distribution.png": "f682ea26c60f00f5db9974c58f1101edc3c8ec9f",
+  "assets/images/social/writing-samples/budget-updates.png": "14b55adb582b5ec74ecb6935e1ef31548292f919",
+  "assets/images/social/writing-samples/confidence-scores.png": "a08e50de381334b48bb02f00cf9b98221e924df0",
+  "assets/images/social/writing-samples/gcodes-essentials.png": "ba6beae7d2494ac58dfbe31e24e6e28ad3fa2a7a",
   "assets/images/social/writing-samples/gcodes-intro.png": "d178dcbe95d7dcb9eba007c56c0513d21be6b0bf",
-  "assets/images/social/writing-samples/gcodes-list.png": "16e6e610e05791f84a80b9b9880587ca763f8182",
+  "assets/images/social/writing-samples/gcodes-list.png": "601e444533fac33a7883314ca32ec4d6de9e3199",
   "assets/images/social/writing-samples/gcodes.png": "00785f85f48a627260336f75ded98c82d1d1712f",
-  "assets/images/social/writing-samples/index.png": "a91a26ecc7ad57255e36488d3d28eeeae67a7333",
-  "assets/images/social/writing-samples/robotics.png": "ef4eed33be7ee193479e6162810703c427504d84"
+  "assets/images/social/writing-samples/index.png": "2c95867aaeefe710bfef11cc9a92afb25c53567e",
+  "assets/images/social/writing-samples/robotics.png": "07a1637630e019673cca3154c6c1fa8d3fd09ed4"
 }

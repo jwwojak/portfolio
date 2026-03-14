@@ -1,5 +1,5 @@
 site_url: https://jwwojak.github.io/portfolio/
-site_name: Joe Wojak | Senior Technical Writer
+site_name: Joe Wojak | Technical Writer
 
 theme:
   name: material
@@ -15,6 +15,9 @@ plugins:
 
 # --- Social links ---
 extra:
+  robots: noindex, nofollow
+  sitemap: 
+    enabled: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/jwwojak
@@ -27,14 +30,14 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - "Joe Wojak: Technical Writer": index.md
+  - Hello World: index.md
   - Resume: resume.md
   - Writing Samples:
     - Writing Samples: writing-samples/index.md
     - Robotics Documentation: writing-samples/robotics.md
     - API Documentation: writing-samples/api-docs.md
     - G-code Documentation:
-          - Thermocycler G-Code Essentials: writing-samples/gcodes-intro.md
+          - Thermocycler G-Code Essentials: writing-samples/gcodes-essentials.md
           - Thermocycler Module G-codes: writing-samples/gcodes-list.md
     - Ad Tech Documentation:
           - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md

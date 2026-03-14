@@ -2,9 +2,7 @@
 title: "Joe Wojak: Technical Writer"
 ---
 
-## Hello world
-
-Welcome to my portfolio. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
+Hello and welcome to my technical writing website. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
 
 ## Background and writing samples
 

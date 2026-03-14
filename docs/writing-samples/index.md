@@ -14,7 +14,7 @@ The [API writing sample](./api-docs.md) documents several liquid handling method
 
 ### G-code documentation
 
-The [G-code writing samples](./gcodes-intro.md) include two articles that explain and list the serial commands used by the Opentrons Thermocycler module.
+The [G-code writing samples](./gcodes-essentials.md) include two articles that explain and list the serial commands used by the Opentrons Thermocycler module.
 
 ## Ad tech documentation
 
