@@ -1,5 +1,6 @@
 ---
 title: "Joe Wojak: Resume"
+custom_toc_title: "Resume sections"
 ---
 
 # Joe Wojak, Technical Writer

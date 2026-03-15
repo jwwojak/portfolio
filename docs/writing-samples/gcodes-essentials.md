@@ -1,6 +1,6 @@
 ---
 title: "Writing Sample: Thermocycler G-Code Essentials"
-description: "Thermocycler G-code syntax, examples, and configuration information."
+custom_toc_title: "Writing samples"
 ---
 
 G-codes are machine-readable instructions used to control hardware. You do not need to understand or use G-codes to operate a Thermocycler with Flex or OT-2. This section is a technical resource for developers building custom applications that work with the Thermocycler.

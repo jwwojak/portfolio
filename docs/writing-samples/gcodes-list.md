@@ -1,7 +1,9 @@
 ---
 title: "Writing Sample: Thermocycler Module G-Codes"
-description: "Lists all Thermocycler G-codes and responses."
+custom_toc_title: "Writing samples"
 ---
+
+## Thermocycler G-codes
 
 The Thermocycler accepts the G-code commands listed below.
 

@@ -1,5 +1,6 @@
 ---
 title: "Writing Sample: Understanding Budget Distribution in Data Centers"
+custom_toc_title: "Writing samples"
 ---
 
 Each data center receives campaign budgets in direct proportion to the bid requests matched by its bidders. Within a data center, hardware differences between servers affect how much budget each bidder receives.

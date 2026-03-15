@@ -1,12 +1,13 @@
 ---
 title: "Writing Samples: Robotics and Ad Tech Documentation"
+custom_toc_title: "Writing samples"
 ---
 
-These samples highlight my current work in robotics and past work in ad tech. The API and G-code examples are subsets of the robotics documentation.
+These samples highlight my current work in robotics and past work in ad tech.
 
 ## Robotics documentation
 
-The [robotics writing samples](./robotics.md) feature my work for Opentrons as a contributing writer and primary author.
+The [robotics writing samples](./robotics.md) feature my work for Opentrons as a contributing writer and primary author.  The API and G-code examples are subsets of the robotics documentation.
 
 ### API documentation
 

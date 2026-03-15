@@ -1,5 +1,6 @@
 ---
 title: "Writing Sample: Budget Updates and Delivery Delays"
+custom_toc_title: "Writing samples"
 ---
 
 Asynchronous budget updates can delay tactic delivery by 10 minutes to an hour. However, you can force an immediate budget update by changing and saving any setting within a campaign or tactic.

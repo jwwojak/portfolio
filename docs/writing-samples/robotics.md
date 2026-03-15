@@ -1,8 +1,9 @@
 ---
 title: "Robotics Documentation"
+custom_toc_title: "Writing samples"
 ---
 
-## Flex writing samples
+## Flex robot
 
 The [Opentrons Flex Instruction Manual](https://docs.opentrons.com/flex/) is the manual for Opentrons' flagship liquid handling robot. This guide is an ongoing collaborative effort with contributions from the entire writing team. For specific examples as an individual contributor, see:
 
@@ -12,11 +13,11 @@ The [Opentrons Flex Instruction Manual](https://docs.opentrons.com/flex/) is the
 
 - [Command Line Operation Over SSH](https://docs.opentrons.com/flex/advanced-operation/command-line/) is another concept and task article that explains how to make a secure-socket connection to a Flex robot.
 
-## OT-2 writing samples
+## OT-2 robot
 
 The [Opentrons OT-2 Instruction Manual](https://docs.opentrons.com/ot-2/) is the manual for Opentrons' older, entry-level liquid handling robot. I am the primary author for this guide.
 
-## Modules writing samples
+## Robot modules
 
 Modules are hardware components that extend the capabilities of the Flex and OT-2 robots. Selected works as the primary writer include:
 

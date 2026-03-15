@@ -1,5 +1,6 @@
 ---
 title: "Writing Sample: Understanding Budget Distribution and Update Cycles"
+custom_toc_title: "Writing samples"
 ---
 
 Five key components—the budget allocator, MySQL, Watson, Vertica, and the bidders—collaborate to manage and distribute budgets. Because the budget allocator and the bidders update data on separate schedules, their independent operations affect how and when budget data is distributed. 

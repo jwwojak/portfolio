@@ -3,6 +3,7 @@ site_name: Joe Wojak | Technical Writer
 
 theme:
   name: material
+  custom_dir: overrides
   icon:
     logo: material/file-document-multiple-outline
   favicon: images/favicon/file-document-multiple-outline.svg
@@ -50,6 +51,7 @@ copyright: Copyright &copy; 2026 Joe Wojak
 markdown_extensions:
   - def_list
   - toc:
+      title: Page contents
       permalink: True
   - admonition
   - attr_list
