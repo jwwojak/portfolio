@@ -37,9 +37,6 @@ nav:
     - Writing Samples: writing-samples/index.md
     - Robotics Documentation: writing-samples/robotics.md
     - API Documentation: writing-samples/api-docs.md
-    - G-code Documentation:
-          - Thermocycler G-Code Essentials: writing-samples/gcodes-essentials.md
-          - Thermocycler Module G-codes: writing-samples/gcodes-list.md
     - Ad Tech Documentation:
           - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md
           - Understanding Budget Distribution in Data Centers: writing-samples/budget-distribution.md

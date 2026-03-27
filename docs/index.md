@@ -1,8 +1,9 @@
 ---
-title: "Joe Wojak: Technical Writer"
+title: "Joe Wojak | Technical Writer"
+description: "My resume and portfolio landing page."
 ---
 
-Hello and welcome to my technical writing website. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
+Welcome to my techical writing website. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
 
 ## Background and writing samples
 
@@ -20,7 +21,7 @@ Hello and welcome to my technical writing website. I specialize in transforming 
 
     ---
 
-    Ad tech, robotics, API, and G-code writing samples.
+    Read and evaluate.
 
     [:octicons-arrow-right-24: View Samples](writing-samples/index.md)
 

@@ -1,9 +1,9 @@
 ---
 title: "Writing Samples: Robotics and Ad Tech Documentation"
-custom_toc_title: "Writing samples"
+custom_toc_title: "Online and older offline writing samples."
 ---
 
-These samples highlight my current work in robotics and past work in ad tech.
+These samples highlight my current work in robotics and past work in ad tech. Additional examples are available upon request.
 
 ## Robotics documentation
 
@@ -15,11 +15,11 @@ The [API writing sample](./api-docs.md) documents several liquid handling method
 
 ### G-code documentation
 
-The [G-code writing samples](./gcodes-essentials.md) include two articles that explain and list the serial commands used by the Opentrons Thermocycler module.
+The [G-code writing samples](https://docs.opentrons.com/thermocycler/g-code-concepts/) is a three-page section in the Opentrons Thermocycler manual.
 
 ## Ad tech documentation
 
-This section contains three related writing samples that explain budget distribution and campaign performance in an ad serving system:
+This section contains writing samples that explain budget distribution and campaign performance in an ad serving system:
 
 - [Budget Distribution and Update Cycles](budget-updates.md) outlines how budget data moves through the ad serving stack.
 
