@@ -1,6 +1,7 @@
 ---
 title: "Writing Samples: Robotics and Ad Tech Documentation"
-custom_toc_title: "Online and older offline writing samples."
+custom_toc_title: "Writing samples"
+description: "Current and older online and offline documentation for robotics and ad tech."
 ---
 
 These samples highlight my current work in robotics and past work in ad tech. Additional examples are available upon request.
