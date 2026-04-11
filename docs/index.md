@@ -29,7 +29,7 @@ Welcome to my techical writing website. I specialize in transforming complex eng
 
 ## About this site
 
-Beyond hosting my resume and writing samples, this site is a functional example of my technical capabilities. I leveraged MkDocs, Material for MkDocs, and GitHub to create a responsive, search-optimized documentation environment that balances technical architecture with clear writing.
+Beyond hosting my resume and writing samples, this site is a functional example of my technical capabilities. I built it using MkDocs, Material for MkDocs, and GitHub to provide a responsive, search-optimized documentation environment that balances technical architecture with clear writing.
 
 ## Contact
 

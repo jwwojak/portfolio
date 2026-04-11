@@ -1,0 +1,117 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Joe Wojak",
+    "label": "Senior Technical Writer",
+    "email": "jwojak@gmail.com",
+    "url": "https://github.com/jwwojak",
+    "summary": "Senior Technical Writer with a deep focus on docs-as-code, developer-facing platforms, and complex hardware/software systems. Expertise in establishing documentation departments from the ground up as a first-hire specialist in high-growth tech environments.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "joewojak",
+        "url": "https://www.linkedin.com/in/joewojak"
+      },
+      {
+        "network": "GitHub",
+        "username": "jwwojak",
+        "url": "https://github.com/jwwojak"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Opentrons",
+      "position": "Technical Writer",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "Leading documentation for flagship liquid handling robotics systems (Flex and OT-2) and driving the department's transition to modern engineering standards.",
+      "highlights": [
+        "Co-authored the 150-page Flex Instruction Manual and principal author of the OT-2 Instruction Manual.",
+        "Authored the Flex Preventative Maintenance and Service Manual, detailing PCBAs and electrical protocols.",
+        "Architected and implemented a Docs-as-Code framework using MkDocs and GitHub.",
+        "Authored and maintained Python API and G-code documentation."
+      ]
+    },
+    {
+      "name": "Spotify",
+      "position": "Senior Technical Writer",
+      "startDate": "2017-01-01",
+      "endDate": "2022-12-31",
+      "summary": "Focused on internal, developer-facing documentation for large-scale system architecture and ad-serving services.",
+      "highlights": [
+        "Developed engineering training tutorials that improved content accuracy and reduced onboarding friction.",
+        "Co-authored the internal technical writing handbook and engineering glossary."
+      ]
+    },
+    {
+      "name": "Adobe Systems",
+      "position": "Senior Technical Writer",
+      "startDate": "2015-01-01",
+      "endDate": "2017-12-31",
+      "summary": "Managed documentation for high-traffic marketing cloud services.",
+      "highlights": [
+        "Authored and managed documentation for Adobe Audience Manager, including deep-dive API documentation.",
+        "Managed documentation for the Adobe Marketing Cloud ID Service.",
+        "Mentored international junior writers to maintain global documentation standards."
+      ]
+    },
+    {
+      "name": "Tapad",
+      "position": "Senior Technical Writer (First Writer Hired)",
+      "startDate": "2012-01-01",
+      "endDate": "2015-12-31",
+      "summary": "Established the initial documentation function for the company; documented cross-device ad targeting systems and APIs."
+    },
+    {
+      "name": "Demdex/Adobe",
+      "position": "Technical Writer (First Writer Hired)",
+      "startDate": "2009-01-01",
+      "endDate": "2011-12-31",
+      "summary": "Pioneered the documentation strategy for data management platforms and mobile/API integrations."
+    },
+    {
+      "name": "Right Media/Yahoo",
+      "position": "Technical Writer",
+      "startDate": "2007-01-01",
+      "endDate": "2008-12-31",
+      "summary": "Contributed to the documentation of the Right Media Exchange, an early pioneer in online ad exchange platforms."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "United States Army",
+      "position": "Service Member",
+      "summary": "Ft. Bragg, NC, Honorable Discharge"
+    }
+  ],
+  "education": [
+    {
+      "institution": "[University Name]",
+      "studyType": "Master of Arts",
+      "area": "[Field of Study]"
+    },
+    {
+      "institution": "[University Name]",
+      "studyType": "Bachelor of Arts",
+      "area": "[Field of Study]"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frameworks",
+      "keywords": ["MkDocs", "GitHub Actions", "Docs-as-Code", "Markdown", "Liquid Handling Robotics"]
+    },
+    {
+      "name": "Specialties",
+      "keywords": ["API Documentation", "PCBA & Electrical Protocols", "Engineering Training", "Hardware Documentation"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Technical Writing Portfolio",
+      "description": "A personal documentation portfolio and resume site built with MkDocs and Material for MkDocs, deployed via GitHub Pages.",
+      "url": "https://github.com/jwwojak"
+    }
+  ]
+}
