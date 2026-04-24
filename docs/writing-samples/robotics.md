@@ -1,6 +1,6 @@
 ---
 title: "Robotics Documentation"
-custom_toc_title: "Writing samples"
+description: "Summary of robotics documentation examples."
 ---
 
 ## Flex robot

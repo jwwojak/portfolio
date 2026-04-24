@@ -1,6 +1,6 @@
 ---
 title: "Joe Wojak | Technical Writer"
-description: "My resume and portfolio landing page."
+description: "My resume and writing portfolio."
 ---
 
 Welcome to my techical writing website. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.

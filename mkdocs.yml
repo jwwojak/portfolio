@@ -41,14 +41,14 @@ nav:
           - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md
           - Understanding Budget Distribution in Data Centers: writing-samples/budget-distribution.md
           - Budget Updates and Delivery Delays: writing-samples/budget-delay.md
-          # - Confidence Scores and Report Results: writing-samples/confidence-scores.md
+          - Confidence Scores and Report Results: writing-samples/confidence-scores.md
 
 copyright: Copyright &copy; 2026 Joe Wojak
 
 markdown_extensions:
   - def_list
   - toc:
-      title: Page contents
+      title: Contents
       permalink: True
   - admonition
   - attr_list

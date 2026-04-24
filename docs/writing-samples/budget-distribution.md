@@ -1,6 +1,6 @@
 ---
 title: "Writing Sample: Understanding Budget Distribution in Data Centers"
-custom_toc_title: "Writing samples"
+description: "Data centers that serve more ads receive a larger budget allocation than those that serve fewer ads."
 ---
 
 Each data center receives campaign budgets in direct proportion to the bid requests matched by its bidders. Within a data center, hardware differences between servers affect how much budget each bidder receives.
@@ -13,8 +13,8 @@ Applying an even budget distribution across multiple data centers is inefficient
 
 To solve this problem, the ad serving system allocates budgets to each data center in direct proportion to its *match rate*. The match rate measures how often the bidders in a data center can fulfill a bid request, given the constraints set by each ad serving tactic. If a data center and its bidders match more bids, they receive a larger share of the available budget. This dynamic allocation method shifts resources between data centers and bidders in response to demand. 
 
-In the ad serving technology stack, the budget allocator calculates the match rate, while Watson manages and distributes budgets to the bidders. For more information about how these systems work, see [Understanding Budget Distribution and Update Cycles](budget-updates.md).
+In the ad serving technology stack, the budget allocator calculates the match rate, while **Watson** manages and distributes budgets to the bidders. For more information about how these systems work, see [Understanding Budget Distribution and Update Cycles](budget-updates.md).
 
 ## Server hardware affects budget distribution between bidders
 
-Hardware capabilities also affect budget distribution within a single data center. For example, bidders running on highly performant servers process requests faster, leading to better match rates than bidders on slower machines. Consequently, bidders on more powerful hardware naturally capture a larger share of the budget than those running on slower servers.
+Hardware capabilities also affect budget distribution within a single data center. For example, bidders running on high-performance servers process requests faster, leading to better match rates than bidders on slower machines. Consequently, bidders on more powerful hardware naturally capture a larger share of the budget than those running on slower servers.

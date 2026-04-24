@@ -12,3 +12,6 @@ Thumbs.db
 # Virtual environments (if you ever use them)
 venv/
 .venv/
+
+# Ignore this filename anywhere in the repo
+"Stacker HEPA retrofit kit guide.pdf"

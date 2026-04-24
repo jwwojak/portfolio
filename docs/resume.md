@@ -1,11 +1,11 @@
 ---
 title: "Joe Wojak: Resume"
-custom_toc_title: "Resume sections"
+description: "Review and download my resume."
 ---
 
 # Joe Wojak, Technical Writer
 
-[:fontawesome-regular-file-pdf: Download Resume](Joe-Wojak-Resume-2026.pdf){ .md-button .md-button--primary style="padding: 4px 12px; font-size: 0.8rem;" }
+[:fontawesome-regular-file-pdf: Download Resume](assets/pdf/Joe-Wojak-Resume-2026.pdf){ .md-button .md-button--primary style="padding: 4px 12px; font-size: 0.8rem;" }
 
 <style>
   @media (max-width: 600px) {

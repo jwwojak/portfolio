@@ -1,6 +1,6 @@
 ---
 title: "Writing Sample: API Documentation"
-custom_toc_title: "Writing samples"
+description: "Documentation for liquid handling methods."
 ---
 
 ## Labeling Liquids in Wells

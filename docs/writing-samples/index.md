@@ -1,6 +1,5 @@
 ---
 title: "Writing Samples: Robotics and Ad Tech Documentation"
-custom_toc_title: "Writing samples"
 description: "Online and older offline documentation for robotics and ad tech."
 ---
 
@@ -32,3 +31,5 @@ This section contains writing samples that explain budget distribution and campa
 - [Understanding Budget Distribution in Data Centers](budget-distribution.md) details how campaign effectiveness dictates budget distribution across data centers.
 
 - [Budget Updates and Delivery Delays](budget-delay.md) explains how to force a budget update across ad servers to launch a campaign.
+
+- [Confidence Scores and Report Results](confidence-scores.md) explains how changing confidence scores affects device classification.
