@@ -24,9 +24,10 @@ Here is how budget data moves through the ad serving stack after an update:
 
 **Watson**
 : Watson is the authoritative source of budget information for the bidders. In this system, Watson:
-    - **Allocates** budgets to the bidders.
-    - **Tracks** expenditure.
-    - **Stops** the bidders once they have exhausted their budget.
+
+    - Allocates budgets to the bidders.
+    - Tracks expenditure.
+    - Stops the bidders once they have exhausted their budget.
 
 **Bidders**
 : At 1-hour intervals, the bidders fetch and refresh all available campaign data from Watson. This ensures they have the latest budget and campaign data, taking bidder performance into account. As a result, the bidders receive budget amounts in proportion to their match rates; bidders that match a high volume of requests receive more budget than those with fewer bid requests. Finally, the bidders continue to send match rate data to Vertica, which is passed on to the budget allocator.
