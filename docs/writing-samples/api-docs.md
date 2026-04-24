@@ -3,7 +3,7 @@ title: "Writing Sample: API Documentation"
 description: "Documentation for liquid handling methods."
 ---
 
-## Labeling Liquids in Wells
+## Labeling liquids in wells
 
 You can specify the liquids that should be in various wells at the beginning of your protocol. Doing so helps you identify well contents by name and volume, and adds corresponding labels to a single well, or group of wells, in well plates and reservoirs. Viewing the initial liquid setup in a Python protocol is available in the Opentrons App v6.3.0 or higher.
 
@@ -11,7 +11,7 @@ To use these optional methods, first create a liquid object with `ProtocolContex
 
 Let's examine how these two methods work. The following examples demonstrate how to define colored water samples for a well plate and reservoir.
 
-### Defining Liquids
+### Defining liquids
 
 This example uses `define_liquid` to create two liquid objects and instantiates them with the variables `greenWater` and `blueWater`, respectively. The arguments for `define_liquid` are all required, and let you name the liquid, describe it, and assign it a color:
 
@@ -30,7 +30,7 @@ blueWater = protocol.define_liquid(
 
 The `display_color` parameter accepts a hex color code, which adds a color to that liquid's label when you import your protocol into the Opentrons App. The `define_liquid` method accepts standard 3-, 4-, 6-, and 8-character hex color codes.
 
-## Labeling Wells and Reservoirs
+## Labeling wells and reservoirs
 
 This example uses `load_liquid` to label the initial well location, contents, and volume (in µL) for the liquid objects created by `define_liquid`. Notice how values of the liquid argument use the variable names `greenWater` and `blueWater` (defined above) to associate each well with a particular liquid:
 
@@ -48,11 +48,11 @@ This information shows up in the Opentrons App (v6.3.0 or higher) after you impo
 !!! note
     `load_liquid` does not validate volume for your labware nor does it prevent you from adding multiple liquids to each well. For example, you could label a 40 µL well plate with `greenWater, volume=50`, and then also add blue water to the well. The API won't stop you. It's your responsibility to ensure the labels you use accurately reflect the amounts and types of liquid you plan to place into wells and reservoirs.
 
-### Labeling vs Handling Liquids
+### Labeling vs handling liquids
 
 The `load_liquid` arguments include a volume amount (`volume=n` in µL). This amount is just a label. It isn't a command or function that manipulates liquids. It only tells you how much liquid should be in a well at the start of the protocol. You need to use a method like `.transfer` to physically move liquids from a source to a destination.
 
-## Detect lquids
+## Detect liquids
 
 The `InstrumentContext.detect_liquid_presence` method tells a Flex pipette to check for liquid in a well. It returns `True` if the pressure sensors in the pipette detect a liquid and `False` if the sensors do not. 
 
@@ -67,7 +67,7 @@ else:
     pipette.aspirate(100, reservoir["A2"])
 ```
 
-## Require Liquids
+## Require liquids
 
 The `InstrumentContext.require_liquid_presence` method tells a Flex pipette to check for and require liquid in a well.
 
