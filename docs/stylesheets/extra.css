@@ -34,3 +34,23 @@
 .screenshot {
   border: 2px solid #000000;
 }
+
+/* --- Resume Download Button --- */
+.md-button--primary {
+  /* Ensuring smooth transitions for all state changes */
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease !important;
+}
+
+.md-button--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  filter: brightness(1.05); /* Subtle highlight */
+  text-decoration: none;    /* Prevents underline on the button text */
+}
+
+/* --- Mobile Contact Header Logic --- */
+@media (max-width: 600px) {
+  .contact-text {
+    display: none; /* Hides email/social labels on small screens */
+  }
+}
