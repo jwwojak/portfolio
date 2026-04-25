@@ -1,0 +1,56 @@
+/* Forces the 3-column layout */
+.contact-grid {
+  grid-template-columns: repeat(3, 1fr) !important;
+  max-width: 700px;
+  margin: 0 auto 20px auto;
+}
+
+/* Makes the entire card area clickable */
+.contact-grid li {
+  position: relative; /* Essential for the stretched link */
+  transition: transform 0.2s ease-in-out;
+}
+
+.contact-grid li:hover {
+  transform: translateY(-4px); /* Adds a subtle lift on hover */
+  cursor: pointer;
+}
+
+.contact-grid a::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.md-typeset table th {
+  background-color: #90afb8dc; /* Header color */
+  color: #000000; /* Header text color */
+}
+
+.screenshot {
+  border: 2px solid #000000;
+}
+
+/* --- Resume Download Button --- */
+.md-button--primary {
+  /* Ensuring smooth transitions for all state changes */
+  transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease !important;
+}
+
+.md-button--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  filter: brightness(1.05); /* Subtle highlight */
+  text-decoration: none;    /* Prevents underline on the button text */
+}
+
+/* --- Mobile Contact Header Logic --- */
+@media (max-width: 600px) {
+  .contact-text {
+    display: none; /* Hides email/social labels on small screens */
+  }
+}
