@@ -18,9 +18,29 @@ description: "Contact information and resume."
 [:fontawesome-regular-file-pdf: Download Resume](assets/pdf/Joe-Wojak-Resume-2026.pdf){ .md-button .md-button--primary target="_blank" download="Joe-Wojak-Resume-2026.pdf" style="padding: 4px 12px; font-size: 0.8rem;" }
 
 <style>
+  /* Keeps your existing mobile optimization */
   @media (max-width: 600px) {
     .contact-text {
       display: none;
+    }
+  }
+
+  /* Structural fixes for the printed PDF engine */
+  @media print {
+    /* Completely strips out the download button line */
+    .md-button {
+      display: none !important;
+    }
+
+    /* Optional: Tightens margins slightly for physical layout consistency */
+    body {
+      font-size: 11pt;
+      line-height: 1.5;
+    }
+    
+    /* Prevents job headers from separating from their descriptions at page breaks */
+    h2, h3 {
+      page-break-after: avoid;
     }
   }
 </style>
