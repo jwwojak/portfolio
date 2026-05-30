@@ -35,12 +35,11 @@ nav:
   - Resume: resume.md
   - Writing Samples:
     - Writing Samples: writing-samples/index.md
-    - Robotics Documentation: writing-samples/robotics.md
     - API Documentation: writing-samples/api-docs.md
     - Ad Tech Documentation:
           - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md
           - Understanding Budget Distribution in Data Centers: writing-samples/budget-distribution.md
-          - Budget Updates and Delivery Delays: writing-samples/budget-delay.md
+          - Fix Delivery Delays With a Budget Update: writing-samples/budget-delay.md
           - Confidence Scores and Report Results: writing-samples/confidence-scores.md
 
 copyright: Copyright &copy; 2026 Joe Wojak

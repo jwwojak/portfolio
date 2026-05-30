@@ -54,3 +54,12 @@
     display: none; /* Hides email/social labels on small screens */
   }
 }
+
+/* Automatically standardize all grid card banner images */
+.grid.cards li > p > img {
+  width: 100%;
+  height: 160px;          /* Forces a uniform height across all cards */
+  object-fit: contain;     /* Fit in letterbox */
+  object-position: center;/* Centers the crop area */
+  margin: 0;
+}

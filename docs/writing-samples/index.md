@@ -1,35 +1,108 @@
 ---
 title: "Writing Samples: Robotics and Ad Tech Documentation"
-description: "Online and older offline documentation for robotics and ad tech."
+description: "Online and offline writing samples for robotics and ad tech SaaS systems."
 ---
 
-These samples highlight my current work in robotics and past work in ad tech. Additional examples are available upon request.
+Writing samples and technical documentation for robotics and AdTech platforms.
 
-## Robotics documentation
+- **Robotics:** Examples of live, in-production manuals and developer references available online.
+- **AdTech:** Examples of older documentation for systems that may have changed significantly since publication.
 
-The [robotics writing samples](./robotics.md) feature my work for Opentrons as a contributing writer and primary author. The API and G-code examples below are subsets of this documentation.
+## :material-robot: Robotics Documentation
 
-### API documentation
+Production documentation for Opentrons liquid-handling robots, modules, and developer tools. These feature my work as primary author and contributing writer.
 
-The [API writing sample](./api-docs.md) documents several liquid handling methods for the Opentrons Python API.
+<div class="grid cards" markdown>
 
-### G-code documentation
+-   ![Opentrons Flex](../images/flex-hero.png)
+    __Flex Instruction Manual__
 
-G-code provides machine-readable instructions for controlling hardware. These in-production examples are part of a project to make G-code for selected modules more uniform and accessible. I am also the primary author of these manuals.
+    ---
 
-- [Thermocycler G-code Concepts](https://docs.opentrons.com/thermocycler/g-code-concepts/)
-- [Heater-Shaker G-Code Concepts](https://docs.opentrons.com/heater-shaker/g-code-concepts/)
+    Documentation example as a contributing writer for this ongoing project.
 
-Each section includes three pages of documentation covering metadata, individual commands, and response errors.
+    [:material-open-in-new: Flex Instruction Manual](https://docs.opentrons.com/...)
 
-## Ad tech documentation
+-   ![OT-2 robot](../images/ot2-hero.png)
+    __OT-2 Instruction Manual__
 
-This section contains writing samples that explain budget distribution and campaign performance in an ad-serving system:
+    ---
 
-- [Budget Distribution and Update Cycles](budget-updates.md) outlines how budget data moves through the ad-serving stack.
+    Documentation example as a primary author for the current edition.
 
-- [Understanding Budget Distribution in Data Centers](budget-distribution.md) details how campaign effectiveness dictates budget distribution across data centers.
+    [:material-open-in-new: OT-2 Instruction Manual](https://docs.opentrons.com...)
 
-- [Budget Updates and Delivery Delays](budget-delay.md) explains how to force a budget update across ad servers to launch a campaign.
+</div>
 
-- [Confidence Scores and Report Results](confidence-scores.md) explains how changing confidence scores affects device classification.
+<div class="grid cards" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));" markdown>
+
+-   __Module Documentation__
+
+    ---
+
+    Primary and contributing writer for module manuals.
+
+    [:material-open-in-new: Robot Modules](https://docs.opentrons.com/modules/)
+
+-   __G-Code Documentation__
+
+    ---
+
+    Translating G-code for use in selected manuals.
+
+    [:material-open-in-new: Thermocycler G-code](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
+    [:material-open-in-new: Heater-Shaker G-code](https://docs.opentrons.com/heater-shaker/g-code-concepts/)
+
+-   __API Documentation__
+
+    ---
+
+    Writing demonstration for liquid handling methods.
+
+    [:octicons-arrow-right-24: Read Sample](./api-docs.md)
+
+</div>
+
+---
+
+## :material-server-network: Ad Tech Documentation
+
+Writing samples that explain budget distribution, campaign performance, and device identity in an ad-serving system.
+
+<div class="grid cards" markdown>
+
+-   __Data Pipeline Flow__
+
+    ---
+
+    Explains how budget data moves through a distributed ad-serving stack.
+
+    [:octicons-arrow-right-24: Read Sample](budget-updates.md)
+
+-   __Resource Allocation__
+
+    ---
+
+    Explains how ad servers allocate budget based on campaign performance.
+
+    [:octicons-arrow-right-24: Read Sample](budget-distribution.md)
+
+-   __Fixing Delays With a Budget Update__
+
+    ---
+
+    Instructions on how to force a budget update to start ad delivery.
+
+    [:octicons-arrow-right-24: Read Sample](budget-delay.md)
+
+-    __Probabilistic Modeling__
+
+    ---
+
+    Explains how device graph confidence scores determine relationship strength between devices.
+
+    [:octicons-arrow-right-24: Read Sample](confidence-scores.md)
+
+</div>
+
+---
