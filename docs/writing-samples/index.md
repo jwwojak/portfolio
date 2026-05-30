@@ -21,7 +21,7 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
     Documentation example as a contributing writer for this ongoing project.
 
-    [:material-open-in-new: Flex Instruction Manual](https://docs.opentrons.com/...)
+    [:material-open-in-new: Flex Instruction Manual](https://docs.opentrons.com/flex/)
 
 -   ![OT-2 robot](../images/ot2-hero.png)
     __OT-2 Instruction Manual__
@@ -30,7 +30,7 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
     Documentation example as a primary author for the current edition.
 
-    [:material-open-in-new: OT-2 Instruction Manual](https://docs.opentrons.com...)
+    [:material-open-in-new: OT-2 Instruction Manual](https://docs.opentrons.com/ot-2/)
 
 </div>
 
