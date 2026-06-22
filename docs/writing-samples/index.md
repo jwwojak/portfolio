@@ -19,7 +19,7 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
     ---
 
-    Documentation example as a contributing writer for this ongoing project.
+    Documentation example as a contributing writer.
 
     [:material-open-in-new: Flex Instruction Manual](https://docs.opentrons.com/flex/)
 
@@ -28,7 +28,7 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
     ---
 
-    Documentation example as a primary author for the current edition.
+    Documentation example as a primary author.
 
     [:material-open-in-new: OT-2 Instruction Manual](https://docs.opentrons.com/ot-2/)
 
@@ -50,8 +50,8 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
     Translating G-code for use in selected manuals.
 
-    [:material-open-in-new: Thermocycler G-code](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
-    [:material-open-in-new: Heater-Shaker G-code](https://docs.opentrons.com/heater-shaker/g-code-concepts/)
+    [:material-open-in-new: G-code Concepts](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
+    [:material-open-in-new: G-code Commands](https://docs.opentrons.com/heater-shaker/g-codes/)
 
 -   __API Documentation__
 
