@@ -1,6 +1,6 @@
 ---
 title: "Joe Wojak: Resume and contact information"
-description: "Contact information and resume."
+description: "Resume and contact information."
 ---
 
 # Joe Wojak
@@ -15,7 +15,7 @@ description: "Contact information and resume."
 
 </div>
 
-[:fontawesome-regular-file-pdf: Download Resume](assets/pdf/Joe-Wojak-Resume-2026.pdf){ .md-button .md-button--primary target="_blank" download="Joe-Wojak-Resume-2026.pdf" style="padding: 4px 12px; font-size: 0.8rem;" }
+[:fontawesome-regular-file-pdf: Download Resume](assets/pdf/Joe_Wojak_Resume.pdf){.md-button .md-button--primary target="_blank" style="padding:4px 12px;font-size:0.8rem;"}
 
 <style>
   /* Keeps your existing mobile optimization */
@@ -49,7 +49,7 @@ description: "Contact information and resume."
 
 ## About
 
-Senior Technical Writer specializing in documentation for robotics and AdTech SaaS. I distill complex technical systems and services, including software platforms and electromechanical systems, into clear, accessible manuals. Expert in building end-to-end writing strategies using Markdown, Git, and MkDocs to deliver precise documentation for products ranging from lab automation to cloud-based services.
+Senior Technical Writer specializing in documentation for robotics and AdTech SaaS. I distill complex technical systems and services, including software platforms and electromechanical systems, into clear, accessible manuals. Experienced with building end-to-end writing strategies using Markdown, Git, and MkDocs to deliver precise documentation for products ranging from lab automation to cloud-based services.
 
 ---
 
@@ -58,14 +58,14 @@ Senior Technical Writer specializing in documentation for robotics and AdTech Sa
 ### Opentrons Labworks
 Senior Technical Writer | February 2023–Present
 
-**Documentation Infrastructure & Lifecycle Velocity**  
-Modernized the documentation ecosystem by engineering a migration to a Docs-as-Code framework utilizing MkDocs and GitHub. This architectural shift integrated technical writing directly into engineering sprint cycles, successfully reducing publication latency from weeks to days and enabling on-demand releases for global robotics platforms.
+**Improved Documentation Infrastructure & Publication Speed**  
+Modernized the documentation ecosystem by engineering a migration to a Docs-as-Code framework utilizing MkDocs and GitHub. This architectural shift integrated technical writing directly into engineering sprint cycles, successfully reducing publication latency from weeks to days and enabling on-demand releases for robotics platforms and modules.
 
-**Hardware-Verified Service & Operational Manuals**  
-Authored high-fidelity technical resources for flagship automated liquid-handling systems, including the 150-page [Flex Instruction Manual](https://docs.opentrons.com/flex/) and the 130-page entry-level [OT-2 Instruction Manual](https://docs.opentrons.com/ot-2/). Developed proprietary preventative maintenance guides and service manuals detailing PCBA specifications, electrical protocols, and complex hardware replacement procedures for field-service engineering teams. Managed printed and [online documentation for robotics modules and attachments](https://docs.opentrons.com/modules/) to ensure structural uniformity across all hardware accessories.
+**Created Instruction & Field Service Manuals**  
+Authored high-fidelity technical resources for flagship automated liquid-handling systems, including the 150-page [Flex Instruction Manual](https://docs.opentrons.com/flex/) and the 130-page entry-level [OT-2 Instruction Manual](https://docs.opentrons.com/ot-2/). Developed proprietary preventative maintenance guides and service manuals detailing PCBA specifications, electrical protocols, and complex hardware replacement procedures for field-service engineering teams. Managed printed and [online documentation for robotics modules and attachments](https://docs.opentrons.com/modules/).
 
 **Technical Reference Maintenance & G-code Transparency**  
-Supported the ongoing maintenance of Python API documentation to ensure alignment with laboratory automation updates. Focused extensively on surfacing "hidden" G-code protocols from deep within internal Git repositories, transforming low-level hardware logic into accessible, public-facing reference guides for advanced robotics customization and failure-state verification.
+Supported the ongoing maintenance of Python API documentation to ensure alignment with laboratory automation updates. Focused extensively on surfacing "hidden" G-code protocols from deep within internal Git repositories, transforming low-level hardware logic into accessible, public-facing reference guides for advanced robotics customization and non-standard use cases.
 
 ---
 
