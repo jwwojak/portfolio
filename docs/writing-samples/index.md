@@ -8,7 +8,7 @@ Writing samples and technical documentation for robotics and AdTech platforms.
 - **Robotics:** Examples of live, in-production manuals and developer references available online.
 - **AdTech:** Examples of older documentation for systems that may have changed significantly since publication.
 
-## :material-robot: Robotics Documentation
+## :material-robot: Robotics hardware and software documentation
 
 Production documentation for Opentrons liquid-handling robots, modules, and developer tools. These feature my work as primary author and contributing writer.
 
@@ -65,7 +65,7 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
 ---
 
-## :material-server-network: Ad Tech Documentation
+## :material-server-network: Ad tech documentation
 
 Writing samples that explain budget distribution, campaign performance, and device identity in an ad-serving system.
 
