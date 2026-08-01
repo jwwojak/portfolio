@@ -1,5 +1,5 @@
 site_url: https://jwwojak.github.io/portfolio/
-site_name: Joe Wojak | Technical Writer
+site_name: Joe Wojak | Technical Writer & Docs-as-Code Specialist
 
 theme:
   name: material
@@ -9,6 +9,12 @@ theme:
   favicon: images/favicon/file-document-multiple-outline.svg
   features:
     - navigation.indexes
+    - navigation.instant      # Fast page loads without full browser refreshes
+    - navigation.tracking     # Updates URL anchor in address bar as the user scrolls
+    - navigation.top          # Adds a "Back to Top" button when scrolling down long pages
+    - search.suggest          # Show auto-complete search query suggestions as you type
+    - search.highlight        # Highlight search keywords directly on the destination page
+    - content.code.copy       # Adds a 1-click "Copy Code" button to all Python/bash blocks
 
 plugins:
   - search
@@ -31,16 +37,15 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Hello World: index.md
+  - Home: index.md
   - Resume: resume.md
   - Writing Samples:
-    - Writing Samples: writing-samples/index.md
-    - API Documentation: writing-samples/api-docs.md
-    - Ad Tech Documentation:
-          - Understanding Budget Distribution and Update Cycles: writing-samples/budget-updates.md
-          - Understanding Budget Distribution in Data Centers: writing-samples/budget-distribution.md
-          - Fix Delivery Delays With a Budget Update: writing-samples/budget-delay.md
-          - Confidence Scores and Report Results: writing-samples/confidence-scores.md
+      - Overview: writing-samples/index.md
+      - API Documentation: writing-samples/api-docs.md
+      - Budget Distribution & Update Cycles: writing-samples/budget-updates.md
+      - Data Center Budget Distribution: writing-samples/budget-distribution.md
+      - Fix Delivery Delays With Budget Update: writing-samples/budget-delay.md
+      - Confidence Scores & Report Results: writing-samples/confidence-scores.md
 
 copyright: Copyright &copy; 2026 Joe Wojak
 

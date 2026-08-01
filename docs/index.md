@@ -1,9 +1,16 @@
 ---
 title: "Joe Wojak | Technical Writer"
-description: "My resume and writing portfolio."
+description: "Resume and technical writing portfolio."
 ---
 
-Welcome to my technical writing website. I specialize in transforming complex engineering systems into mission-critical documentation. I have experience in the ad tech and robotics industries.
+# Joe Wojak
+<p style="font-size: 1.25em; margin-top: 1em;">
+Technical Writer · Docs-as-Code Specialist · Em Dash Supporter
+</p>
+
+My background includes extensive writing experience at tech giants (Yahoo, Adobe, Spotify) and various start-ups documenting the infrastructure that allowed advertisers and ads to find you online. Now, I write about laboratory automation and build automated documentation pipelines that manage content for the Flex liquid-handling robot, its hardware modules, Python APIs, and G-code protocols&mdash;the hardware and software that helps scientists unravel the secrets of DNA. 
+
+A lateral move from tracking pixels to pipettes? I call it an upgrade.
 
 ## Background and writing samples
 
