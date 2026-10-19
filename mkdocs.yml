@@ -41,7 +41,7 @@ nav:
   - Resume: resume.md
   - Writing Samples:
       - Overview: writing-samples/index.md
-      - API Documentation: writing-samples/api-docs.md
+      - Labeling Liquids in Wells: writing-samples/api-docs.md
       - Budget Distribution & Update Cycles: writing-samples/budget-updates.md
       - Data Center Budget Distribution: writing-samples/budget-distribution.md
       - Fix Delivery Delays With Budget Update: writing-samples/budget-delay.md

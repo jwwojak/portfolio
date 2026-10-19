@@ -5,12 +5,10 @@ description: "Resume and technical writing portfolio."
 
 # Joe Wojak
 <p style="font-size: 1.25em; margin-top: 1em;">
-Technical Writer · Docs-as-Code Specialist · Em Dash Supporter
+Technical Writer · Docs-as-Code Specialist · Em Dash Advocate
 </p>
 
-My background includes extensive writing experience at tech giants (Yahoo, Adobe, Spotify) and various start-ups documenting the infrastructure that allowed advertisers and ads to find you online. Now, I write about laboratory automation and build automated documentation pipelines that manage content for the Flex liquid-handling robot, its hardware modules, Python APIs, and G-code protocols&mdash;the hardware and software that helps scientists unravel the secrets of DNA. 
-
-A lateral move from tracking pixels to pipettes? I call it an upgrade.
+My background includes extensive writing experience at tech giants (Yahoo, Adobe, Spotify) and various start-ups documenting the infrastructure that allowed advertisers and ads to find you online. Now, I write about laboratory automation and build automated documentation pipelines that manage content for the Flex liquid-handling robot, its hardware modules, Python APIs, and G-code protocols&mdash;the hardware and software that helps scientists unravel the secrets of DNA.
 
 ## Background and writing samples
 
@@ -36,7 +34,7 @@ A lateral move from tracking pixels to pipettes? I call it an upgrade.
 
 ## About this site
 
-Beyond hosting my resume and writing samples, this site is a functional example of my technical capabilities. I built it using MkDocs, Material for MkDocs, and GitHub to provide a responsive, search-optimized documentation environment that balances technical architecture with clear writing.
+Beyond hosting my resume and writing samples, this site is a functional example of my technical capabilities. I built it using MkDocs, Material for MkDocs, and GitHub to provide a responsive, docs-as-code environment that balances technical architecture with clear writing.
 
 ## Contact
 

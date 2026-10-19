@@ -1,9 +1,7 @@
 ---
-title: "Writing Sample: API Documentation"
+title: "Writing Sample: Labeling Liquids in Wells"
 description: "Documentation for liquid handling methods."
 ---
-
-## Labeling liquids in wells
 
 You can specify the liquids that should be in various wells at the beginning of your protocol. Doing so helps you identify well contents by name and volume, and adds corresponding labels to a single well, or group of wells, in well plates and reservoirs. Viewing the initial liquid setup in a Python protocol is available in the Opentrons App v6.3.0 or higher.
 

@@ -36,30 +36,23 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
 <div class="grid cards" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));" markdown>
 
--   __Module Documentation__
-
-    ---
-
-    Primary and contributing writer for module manuals.
-
-    [:material-open-in-new: Robot Modules](https://docs.opentrons.com/modules/)
-
 -   __G-Code Documentation__
 
     ---
 
-    Translating G-code for use in selected manuals.
+    Sample G-code documentation for selected modules.
 
-    [:material-open-in-new: G-code Concepts](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
-    [:material-open-in-new: G-code Commands](https://docs.opentrons.com/heater-shaker/g-codes/)
+    [:material-open-in-new: Thermocycler G-code Concepts](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
+    [:material-open-in-new: Heater-Shaker G-code Commands](https://docs.opentrons.com/heater-shaker/g-codes/)
 
 -   __API Documentation__
 
     ---
 
-    Writing demonstration for liquid handling methods.
+    Sample API documentation for module control and liquid handing.
 
-    [:octicons-arrow-right-24: Read Sample](./api-docs.md)
+    [:material-open-in-new: Vacuum Module API Methods](https://sandbox.docs.opentrons.com/docs-release-10.2.0/python-api/modules/vacuum/)  
+    [:octicons-arrow-right-24: Labeling Liquids](./api-docs.md)
 
 </div>
 
