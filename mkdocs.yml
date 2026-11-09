@@ -3,6 +3,8 @@ site_name: Joe Wojak | Technical Writer & Docs-as-Code Specialist
 
 theme:
   name: material
+  palette:
+    accent: deep orange
   custom_dir: overrides
   icon:
     logo: material/file-document-multiple-outline
@@ -41,7 +43,7 @@ nav:
   - Resume: resume.md
   - Writing Samples:
       - Overview: writing-samples/index.md
-      - Labeling Liquids in Wells: writing-samples/api-docs.md
+      # - Labeling Liquids in Wells: writing-samples/api-docs.md
       - Budget Distribution & Update Cycles: writing-samples/budget-updates.md
       - Data Center Budget Distribution: writing-samples/budget-distribution.md
       - Fix Delivery Delays With Budget Update: writing-samples/budget-delay.md

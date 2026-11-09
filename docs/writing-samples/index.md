@@ -1,58 +1,66 @@
 ---
 title: "Writing Samples: Robotics and Ad Tech Documentation"
-description: "Online and offline writing samples for robotics and ad tech SaaS systems."
+description: "Online and offline writing samples for robotics and AdTech SaaS systems."
 ---
 
 Writing samples and technical documentation for robotics and AdTech platforms.
+<!---
+- **Hardware:** Examples from robot instruction manuals.
+- **Software:** Examples from API and G-Codes references for developers.
+- **AdTech:** Examples from older documentation for ad serving systems.
+--->
 
-- **Robotics:** Examples of live, in-production manuals and developer references available online.
-- **AdTech:** Examples of older documentation for systems that may have changed significantly since publication.
+## :material-robot: Hardware documentation
 
-## :material-robot: Robotics hardware and software documentation
-
-Production documentation for Opentrons liquid-handling robots, modules, and developer tools. These feature my work as primary author and contributing writer.
+Instruction manuals for liquid handling robots. These manuals feature my work as a contributing writer (Flex) primary author (OT-2).
 
 <div class="grid cards" markdown>
 
 -   ![Opentrons Flex](../images/flex-hero.png)
-    __Flex Instruction Manual__
+    [__Flex Instruction Manual :material-open-in-new:__](https://docs.opentrons.com/flex/)
 
     ---
+    Featured sections:
 
-    Documentation example as a contributing writer.
-
-    [:material-open-in-new: Flex Instruction Manual](https://docs.opentrons.com/flex/)
+    * [Installation and Relocation](https://docs.opentrons.com/flex/installation/)
+    * [Maintenance and Service](https://docs.opentrons.com/flex/maintenance/)
+    * [Command Line Operation Over SSH](https://docs.opentrons.com/flex/advanced-operation/command-line/)
 
 -   ![OT-2 robot](../images/ot2-hero.png)
-    __OT-2 Instruction Manual__
+    [__OT-2 Instruction Manual :material-open-in-new:__](https://docs.opentrons.com/ot-2/)
 
     ---
+    Featured sections:
 
-    Documentation example as a primary author.
-
-    [:material-open-in-new: OT-2 Instruction Manual](https://docs.opentrons.com/ot-2/)
+    * [Calibration](https://docs.opentrons.com/ot-2/calibration/)
+    * [System Description](https://docs.opentrons.com/ot-2/system-description/)
+    * [Opentrons App](https://docs.opentrons.com/ot-2/opentrons-app/)
 
 </div>
 
-<div class="grid cards" style="grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));" markdown>
+## :fontawesome-solid-file-code: Software documentation
 
--   __G-Code Documentation__
+The Vacuum Module API samples are a reference for scientists who want to write their own liquid-handling protocols. The G-code articles provide low-level machine instructions for developers integrating Opentrons hardware modules into third-party software and custom environments.
 
-    ---
+<div class="grid cards" markdown>
 
-    Sample G-code documentation for selected modules.
-
-    [:material-open-in-new: Thermocycler G-code Concepts](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
-    [:material-open-in-new: Heater-Shaker G-code Commands](https://docs.opentrons.com/heater-shaker/g-codes/)
-
--   __API Documentation__
+-   ![Vacuum module HERO cover](../images/vacuum-module-cover.png)
+    __Vacuum Moudle API Documentation__
 
     ---
+    Featured sections:
 
-    Sample API documentation for module control and liquid handing.
+    [Vacuum Module API Methods :material-open-in-new:](https://sandbox.docs.opentrons.com/docs-release-10.2.0/python-api/modules/vacuum/)  
+    [Vacuum Module API Docstrings :material-open-in-new:](https://sandbox.docs.opentrons.com/docs-release-10.2.0/python-api/reference/vacuum/)
 
-    [:material-open-in-new: Vacuum Module API Methods](https://sandbox.docs.opentrons.com/docs-release-10.2.0/python-api/modules/vacuum/)  
-    [:octicons-arrow-right-24: Labeling Liquids](./api-docs.md)
+-   ![Thermocycler HERO cover](../images/thermocycler-hero-cover.png)
+    __Thermocycler G-Codes Documentation__
+
+    ---
+    Featured sections:
+
+    [Thermocycler G-code Concepts :material-open-in-new:](https://docs.opentrons.com/thermocycler/g-code-concepts/)  
+    [Thermocycler G-code Commands :material-open-in-new:](https://docs.opentrons.com/thermocycler/g-codes/)
 
 </div>
 
@@ -60,7 +68,7 @@ Production documentation for Opentrons liquid-handling robots, modules, and deve
 
 ## :material-server-network: Ad tech documentation
 
-Writing samples that explain budget distribution, campaign performance, and device identity in an ad-serving system.
+These are older AdTech writing samples that explain budget distribution, campaign performance, and device identity in an ad-serving system.
 
 <div class="grid cards" markdown>
 
@@ -70,7 +78,7 @@ Writing samples that explain budget distribution, campaign performance, and devi
 
     Explains how budget data moves through a distributed ad-serving stack.
 
-    [:octicons-arrow-right-24: Read Sample](budget-updates.md)
+    [Read Sample :octicons-arrow-right-24:](budget-updates.md)
 
 -   __Resource Allocation__
 
@@ -78,7 +86,7 @@ Writing samples that explain budget distribution, campaign performance, and devi
 
     Explains how ad servers allocate budget based on campaign performance.
 
-    [:octicons-arrow-right-24: Read Sample](budget-distribution.md)
+    [Read Sample :octicons-arrow-right-24:](budget-distribution.md)
 
 -   __Fixing Delays With a Budget Update__
 
@@ -86,7 +94,7 @@ Writing samples that explain budget distribution, campaign performance, and devi
 
     Instructions on how to force a budget update to start ad delivery.
 
-    [:octicons-arrow-right-24: Read Sample](budget-delay.md)
+    [Read Sample :octicons-arrow-right-24:](budget-delay.md)
 
 -    __Probabilistic Modeling__
 
@@ -94,7 +102,7 @@ Writing samples that explain budget distribution, campaign performance, and devi
 
     Explains how device graph confidence scores determine relationship strength between devices.
 
-    [:octicons-arrow-right-24: Read Sample](confidence-scores.md)
+    [Read Sample :octicons-arrow-right-24:](confidence-scores.md)
 
 </div>
 
