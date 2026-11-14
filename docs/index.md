@@ -20,7 +20,7 @@ My background includes extensive writing experience at tech giants (Yahoo, Adobe
 
     Review and download.
 
-    [:octicons-arrow-right-24: View Resume](resume.md)
+    [Resume :octicons-arrow-right-24:](resume.md)
 
 -   :octicons-terminal-16:{ .lg .middle } __Technical Documentation__
 
@@ -28,7 +28,7 @@ My background includes extensive writing experience at tech giants (Yahoo, Adobe
 
     Read and evaluate.
 
-    [:octicons-arrow-right-24: View Samples](writing-samples/index.md)
+    [View Samples :octicons-arrow-right-24:](writing-samples/index.md)
 
 </div>
 
