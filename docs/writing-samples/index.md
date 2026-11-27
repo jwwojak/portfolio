@@ -3,6 +3,8 @@ title: "Writing Samples: Robotics and Ad Tech Documentation"
 description: "Online and offline writing samples for robotics and AdTech SaaS systems."
 ---
 
+[Test link](fsg-1.md)
+
 Writing samples and technical documentation for robotics and AdTech platforms.
 <!---
 - **Hardware:** Examples from robot instruction manuals.
