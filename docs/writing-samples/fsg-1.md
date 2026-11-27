@@ -1,6 +1,6 @@
 ---
 title: "Module 1 Retrofit Guide"
-description: "Generic example extracted from a real field service guide."
+description: "Anonymized excerpt from a field service upgrade guide."
 hide:
   - toc
 ---
