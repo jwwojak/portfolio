@@ -44,10 +44,19 @@ nav:
   - Writing Samples:
       - Overview: writing-samples/index.md
       # - Labeling Liquids in Wells: writing-samples/api-docs.md
-      - Budget Distribution & Update Cycles: writing-samples/budget-updates.md
-      - Data Center Budget Distribution: writing-samples/budget-distribution.md
-      - Fix Delivery Delays With Budget Update: writing-samples/budget-delay.md
-      - Confidence Scores & Report Results: writing-samples/confidence-scores.md
+      # - Module 1 Retrofit Guide: writing-samples/fsg-1.md
+      # - Budget Distribution & Update Cycles: writing-samples/budget-updates.md
+      # - Data Center Budget Distribution: writing-samples/budget-distribution.md
+      # - Fix Delivery Delays With Budget Update: writing-samples/budget-delay.md
+      # - Confidence Scores & Report Results: writing-samples/confidence-scores.md
+
+not_in_nav: |
+  writing-samples/fsg-1.md
+  writing-samples/api-docs.md
+  writing-samples/budget-updates.md
+  writing-samples/budget-distribution.md
+  writing-samples/budget-delay.md
+  writing-samples/confidence-scores.md
 
 copyright: Copyright &copy; 2026 Joe Wojak
 
@@ -63,7 +72,11 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.highlight:
